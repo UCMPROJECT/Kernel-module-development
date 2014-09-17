@@ -1,0 +1,1 @@
+cmd_/home/patrick/Development/C/Modtimer/mod2.o := ld -m elf_x86_64   -r -o /home/patrick/Development/C/Modtimer/mod2.o /home/patrick/Development/C/Modtimer/workqueues.o /home/patrick/Development/C/Modtimer/listas.o /home/patrick/Development/C/Modtimer/Queues.o /home/patrick/Development/C/Modtimer/modtimer.o 
